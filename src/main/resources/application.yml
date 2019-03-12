@@ -1,0 +1,7 @@
+server:
+  port: 8004
+  ssl:
+    key-store: oumingyuan.club.jks
+    key-store-password: fwz9629o8cf4hce
+#    key-alias: alias
+    key-store-type: JKS
